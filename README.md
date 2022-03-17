@@ -11,7 +11,7 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
   <a href="https://kafka.apache.org" rel="nofollow"><img alt="Apache Kafka" width="26px" src="uploads/kafka.png" style="max-width: 100%;"></a>
   <a href="https://www.docker.com" rel="nofollow"><img alt="Docker" width="26px" src="uploads/docker.png" style="max-width: 100%;"></a>
   <a href="https://www.postgresql.org" rel="nofollow"><img alt="PostgreSql" width="26px" src="uploads/postgres.png" style="max-width: 100%;"></a>
-  <a href="https://symfony.com" rel="nofollow"><img alt="symfony framework" width="26px" src="uploads/symfony.png" style="max-width: 100%;"></a>
+  <a href="https://symfony.com" rel="nofollow"><img alt="Symfony framework" width="26px" src="uploads/symfony.png" style="max-width: 100%;"></a>
 </p>
 
 ### enjoy, not used in production
@@ -25,3 +25,14 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
   <a href="https://unity.com" rel="nofollow"><img alt="Unity Game engine" width="26px" src="uploads/unity.png" style="max-width: 100%;"></a>
 </p>
 
+###have work experience in production
+<p dir="auto">
+  <a href="https://kubernetes.io" rel="nofollow"><img alt="Kubernetes" width="26px" src="uploads/kubernetes.png" style="max-width: 100%;"></a>
+  <a href="https://laravel.com/docs/5.0/eloquent" rel="nofollow"><img alt="Eloquent ORM" width="26px" src="uploads/eloquent.png" style="max-width: 100%;"></a>
+  <a href="https://getlaminas.org" rel="nofollow"><img alt="Laminas framework" width="26px" src="uploads/laminas.png" style="max-width: 100%;"></a>
+  <a href="https://nodejs.org" rel="nofollow"><img alt="Node js" width="26px" src="uploads/nodejs.png" style="max-width: 100%;"></a>
+   <a href="https://reactjs.org" rel="nofollow"><img alt="React js" width="26px" src="uploads/reactjs.png" style="max-width: 100%;"></a>
+  <a href="https://www.mongodb.com" rel="nofollow"><img alt="mongodb" width="26px" src="uploads/mongodb.png" style="max-width: 100%;"></a>
+  <a href="https://sass-lang.com" rel="nofollow"><img alt="sass" width="26px" src="uploads/sass.png" style="max-width: 100%;"></a>
+  <a href="https://gulpjs.com" rel="nofollow"><img alt="gulp" width="26px" src="uploads/gulp.png" style="max-width: 100%;"></a>
+</p>
