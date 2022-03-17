@@ -4,7 +4,7 @@ My name is Nikita and i am a software engineer
 
 I'm sprcialized in php and also prefer java, like web developer. Below I will describe in more detail what I worked with / work / what I am fond of
 
-1) now I use:
+### now I use:
 
 <p dir="auto">
   <a href="https://php.net" rel="nofollow"><img alt="PHP" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
@@ -13,3 +13,15 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
   <a href="https://www.postgresql.org" rel="nofollow"><img alt="PostgreSql" width="26px" src="uploads/postgres.png" style="max-width: 100%;"></a>
   <a href="https://symfony.com" rel="nofollow"><img alt="symfony framework" width="26px" src="uploads/symfony.png" style="max-width: 100%;"></a>
 </p>
+
+### enjoy, not used in production
+<p dir="auto">
+  <a href="https://openjdk.java.net" rel="nofollow"><img alt="OpenJDK" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://redis.io" rel="nofollow"><img alt="Redis" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://redis.io" rel="nofollow"><img alt="Redis" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://spring.io" rel="nofollow"><img alt="Spring" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://www.gnu.org/software/bash" rel="nofollow"><img alt="Bash" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://www.rust-lang.org" rel="nofollow"><img alt="rust" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://unity.com" rel="nofollow"><img alt="Unity Game engine" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+</p>
+
