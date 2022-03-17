@@ -28,7 +28,7 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
 ###have work experience in production
 <p dir="auto">
   <a href="https://kubernetes.io" rel="nofollow"><img alt="Kubernetes" width="26px" src="uploads/kubernetes.png" style="max-width: 100%;"></a>
-  <a href="https://laravel.com/docs/5.0/eloquent" rel="nofollow"><img alt="Eloquent ORM" width="26px" src="uploads/eloquent.png" style="max-width: 100%;"></a>
+  <a href="https://laravel.com/docs/5.0/eloquent" rel="nofollow"><img alt="Eloquent ORM" width="26px" src="uploads/eloquent.jpeg" style="max-width: 100%;"></a>
   <a href="https://getlaminas.org" rel="nofollow"><img alt="Laminas framework" width="26px" src="uploads/laminas.png" style="max-width: 100%;"></a>
   <a href="https://nodejs.org" rel="nofollow"><img alt="Node js" width="26px" src="uploads/nodejs.png" style="max-width: 100%;"></a>
    <a href="https://reactjs.org" rel="nofollow"><img alt="React js" width="26px" src="uploads/reactjs.png" style="max-width: 100%;"></a>
