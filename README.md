@@ -16,12 +16,12 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
 
 ### enjoy, not used in production
 <p dir="auto">
-  <a href="https://openjdk.java.net" rel="nofollow"><img alt="OpenJDK" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://redis.io" rel="nofollow"><img alt="Redis" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://redis.io" rel="nofollow"><img alt="Redis" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://spring.io" rel="nofollow"><img alt="Spring" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://www.gnu.org/software/bash" rel="nofollow"><img alt="Bash" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://www.rust-lang.org" rel="nofollow"><img alt="rust" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
-  <a href="https://unity.com" rel="nofollow"><img alt="Unity Game engine" width="26px" src="uploads/php.png" style="max-width: 100%;"></a>
+  <a href="https://openjdk.java.net" rel="nofollow"><img alt="OpenJDK" width="26px" src="uploads/openjdk.png" style="max-width: 100%;"></a>
+  <a href="https://redis.io" rel="nofollow"><img alt="Redis" width="26px" src="uploads/redis.png" style="max-width: 100%;"></a>
+  <a href="https://hibernate.org" rel="nofollow"><img alt="hibernate" width="26px" src="uploads/hibernate.png" style="max-width: 100%;"></a>
+  <a href="https://spring.io" rel="nofollow"><img alt="Spring" width="26px" src="uploads/spring.png" style="max-width: 100%;"></a>
+  <a href="https://www.gnu.org/software/bash" rel="nofollow"><img alt="Bash" width="26px" src="uploads/bash.png" style="max-width: 100%;"></a>
+  <a href="https://www.rust-lang.org" rel="nofollow"><img alt="rust" width="26px" src="uploads/rust.png" style="max-width: 100%;"></a>
+  <a href="https://unity.com" rel="nofollow"><img alt="Unity Game engine" width="26px" src="uploads/unity.png" style="max-width: 100%;"></a>
 </p>
 
