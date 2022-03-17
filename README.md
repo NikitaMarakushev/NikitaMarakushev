@@ -36,3 +36,7 @@ I'm sprcialized in php and also prefer java, like web developer. Below I will de
   <a href="https://sass-lang.com" rel="nofollow"><img alt="sass" width="26px" src="uploads/sass.png" style="max-width: 100%;"></a>
   <a href="https://gulpjs.com" rel="nofollow"><img alt="gulp" width="26px" src="uploads/gulp.png" style="max-width: 100%;"></a>
 </p>
+
+### Important note
+
+I would like to point out, that I do not consider myself an expert on these technologies, and it is not possible to know everything about the technology, only what is needed to solve a certain problem or task :)
