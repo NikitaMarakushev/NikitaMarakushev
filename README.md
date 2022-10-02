@@ -23,6 +23,7 @@ I'm specialized in php and also prefer java, like web developer. Below I will de
   <a href="https://www.gnu.org/software/bash" rel="nofollow"><img alt="Bash" width="26px" src="uploads/bash.png" style="max-width: 100%;"></a>
   <a href="https://www.rust-lang.org" rel="nofollow"><img alt="rust" width="26px" src="uploads/rust.png" style="max-width: 100%;"></a>
   <a href="https://unity.com" rel="nofollow"><img alt="Unity Game engine" width="26px" src="uploads/unity.png" style="max-width: 100%;"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel="nofollow"><img alt="SQL Server" width="26px" src="uploads/sqlserver.png" style="max-width: 100%;"></a>
 </p>
 
 ### have work experience in production
