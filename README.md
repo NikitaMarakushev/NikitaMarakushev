@@ -41,3 +41,5 @@ I'm specialized in php and also prefer java, like web developer. Below I will de
 ### Important note
 
 I would like to point out, that I do not consider myself an expert on these technologies, and it is not possible to know everything about the technology, only what is needed to solve a certain problem or task :)
+
+technology allows us to do a lot
