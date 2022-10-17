@@ -44,10 +44,10 @@ I would like to point out, that I do not consider myself an expert on these tech
 
 technology allows us to do a lot
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaMarakushev)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev&layout=compact)](https://github.com/NikitaMarakushev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev)](https://github.com/NikitaMarakushev/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=NikitaMarakushev)
