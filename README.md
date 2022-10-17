@@ -51,3 +51,13 @@ technology allows us to do a lot
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev)](https://github.com/NikitaMarakushev/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=NikitaMarakushev)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaMarakushev&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaMarakushev&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaMarakushev&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaMarakushev&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaMarakushev&theme=solarized_dark)
