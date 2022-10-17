@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 I'm specialized in php and also prefer java, like web developer. Below I will describe in more detail what I worked with / work / what I am fond of
 
 ### now I use:
