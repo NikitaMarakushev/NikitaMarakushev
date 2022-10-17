@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+security+student+and+software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer)](https://git.io/typing-svg)
 
 I'm specialized in php and also prefer java, like web developer. Below I will describe in more detail what I worked with / work / what I am fond of
 
