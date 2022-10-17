@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 I'm specialized in php and also prefer java, like web developer. Below I will describe in more detail what I worked with / work / what I am fond of
 
 ### now I use:
@@ -45,3 +43,11 @@ I'm specialized in php and also prefer java, like web developer. Below I will de
 I would like to point out, that I do not consider myself an expert on these technologies, and it is not possible to know everything about the technology, only what is needed to solve a certain problem or task :)
 
 technology allows us to do a lot
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=NikitaMarakushev)
