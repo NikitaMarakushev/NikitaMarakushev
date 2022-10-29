@@ -6,6 +6,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaMarakushev&theme=solarized_dark)&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaMarakushev&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaMarakushev&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaMarakushev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaMarakushev&theme=solarized_dark)&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaMarakushev&theme=solarized_dark)
