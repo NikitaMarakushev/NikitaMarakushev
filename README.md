@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=NikitaMarakushev)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaMarakushev&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaMarakushev&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaMarakushev&theme=solarized_dark)
