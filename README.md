@@ -1,12 +1,12 @@
-### Hi there 👋
-### My name is Nikita, and i am 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Engineer)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Nikita
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, DevOps Engineer</h3>
 
-<h3>Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next.js) as a backend developer. </br></h3>
 
-<h3>Now specialize in devops and automation and create my own projects at the rest</h3>
+<h4>Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next.js) as a backend developer. </h4>
+<h4>Now specialize in devops and automation and create my own projects at the rest</h4>
 
-My stack: </br>
+<h3>My stack: </br></h3>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
