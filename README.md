@@ -6,8 +6,9 @@ Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next
 
 I now specialize in devops and automation and create my own projects at the rest
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/apachegroovy.svg" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+
 
 
 
