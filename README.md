@@ -6,7 +6,8 @@ Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next
 
 I now specialize in devops and automation and create my own projects at the rest
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/#3776AB.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/apachegroovy.svg" />
 
 
 
