@@ -2,9 +2,9 @@
 ### My name is Nikita, and i am 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Engineer)](https://git.io/typing-svg)
 
-Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next.js) as a backend developer. </br>
+<h3>Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next.js) as a backend developer. </br></h3>
 
-Now specialize in devops and automation and create my own projects at the rest
+<h3>Now specialize in devops and automation and create my own projects at the rest</h3>
 
 My stack: </br>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
