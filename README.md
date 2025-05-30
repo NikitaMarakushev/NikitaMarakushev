@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Engineer)](https://git.io/typing-svg)
 
 Previously (from 2021 to 2022) i worked with php (laravel, symfony) and js (next.js) as a backend developer. </br>
-Now I write code just for fun at the rest. i don't care about stack, i just care about results and ideas (web application, cli tool, adapter, plugin, whatever)
+
+I now specialize in devops and automation and create my own projects at the rest
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/#3776AB.svg" />
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
