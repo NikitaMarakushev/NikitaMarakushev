@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">🔭Computer Science student and MTI</h3>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ### My current work stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
