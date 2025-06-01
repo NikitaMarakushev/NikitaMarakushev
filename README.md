@@ -1,4 +1,4 @@
-<h3 align="center">🔭Computer Science student at MTI</h3>
+<h3 align="center">🔭Computer Science student at MTI, Engineer</h3>
 
 ### - 💡 I believe that fundamental knowledge and creativity are more important than technology - tools change, but thinking remains.
 ### - 📚 I learn always and everywhere, I love to understand new concepts and languages.
