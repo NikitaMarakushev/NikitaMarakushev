@@ -1,4 +1,4 @@
-<h3 align="center">🔭Computer Science student at MTI, Engineer</h3>
+<h3 align="center">🔭Computer Science student at MTI, Software Engineer</h3>
 
 ### - 💡 I believe that fundamental knowledge and creativity are more important than technology - tools change, but thinking remains.
 ### - 📚 I learn always and everywhere, I love to understand new concepts and languages.
@@ -11,7 +11,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
