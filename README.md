@@ -5,7 +5,7 @@
 
 ## This profile is dedicated to my side projects and fun activities
 
-### Use now:
+### Work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
