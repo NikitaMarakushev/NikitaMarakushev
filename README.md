@@ -7,3 +7,6 @@ Work with:
 - Kubernetes, Docker, Helm, Istio, Bash, ArgoCD, Jenkins
 - PostgreSQL, Opensearch, MS-SQL
 - DevOps, Automation, CI/CD
+
+🌱 I’m currently learning:
+system programming, low-level, distributed system
