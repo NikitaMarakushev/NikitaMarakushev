@@ -27,12 +27,15 @@
   ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch)
   ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoft-sql-server)
 
+**Focus areas:**  
+`DevOps` `Automation` `CI/CD Pipelines` `Backend Development`
+
+**🔥 Low-Level & Close-to-Metal Interests**:
 - **Systems & Low-level:**  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
   ![GCC](https://img.shields.io/badge/GCC-F05032?style=flat&logo=gnu)
   ![Strace](https://img.shields.io/badge/strace-FF6600?style=flat)
   ![Ltrace](https://img.shields.io/badge/ltrace-333333?style=flat)
-
-**Focus areas:**  
-`DevOps` `Automation` `CI/CD Pipelines` `Backend Development`
+  ![GDB](https://img.shields.io/badge/GDB-4B5320?style=flat&logo=gnu)
+  ![Valgrind](https://img.shields.io/badge/Valgrind-4EAA25?style=flat)
