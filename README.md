@@ -1,5 +1,7 @@
 ### 🛠️ Tech Stack
 
+***Computer Science student, Engineer***
+
 **Work with:**
 
 - **Languages & JVM:**  
