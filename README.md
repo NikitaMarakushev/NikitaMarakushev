@@ -1,7 +1,7 @@
 ## 🔧 Tech Stack
 
 **Languages & Frameworks:**  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=openjdk) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=openjdk) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
 
 **Data & Messaging:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
