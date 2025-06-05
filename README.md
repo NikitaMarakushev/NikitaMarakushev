@@ -41,3 +41,8 @@
   ![Ltrace](https://img.shields.io/badge/ltrace-333333?style=flat)
   ![GDB](https://img.shields.io/badge/GDB-4B5320?style=flat&logo=gnu)
   ![Valgrind](https://img.shields.io/badge/Valgrind-4EAA25?style=flat)
+
+  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitamarakushev&layout=compact&langs_count=8&card_width=320" />
+</a>
