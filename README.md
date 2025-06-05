@@ -33,7 +33,8 @@ openssl • gpg • auditd • selinux • firewalld
 lvm • mdadm • gdb • bpftrace • sysdig
 ```
 
-🎯 Focus Areas
+🎯 Focus Areas:
+
 ☁️ Backend
 Microservices Highload APIs Event-Driven
 
