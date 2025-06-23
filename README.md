@@ -8,6 +8,8 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h3 align="left">🔭Interested in:</h3>
-- DevOps
-- CyberSecurity
-- Math
+<ul>
+  <li>DevOps</li>
+  <li>CyberSecurity</li>
+  <li>Math</li>
+</ul>
