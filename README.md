@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer)](https://git.io/typing-svg)
 # 👋 Hi there! I'm Nikita Marakushev
 
 **Software Engineer | DevOps**
+
+I am a former backend developer at **amocrm**, currently working as a **DevOps Engineer**.  
+With a strong background in backend development and a passion for automation, I focus on building reliable infrastructure, improving deployment processes and creating new projects
+
+Automate the routine, focus on the creative.
 
 ---
 
@@ -25,6 +29,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
