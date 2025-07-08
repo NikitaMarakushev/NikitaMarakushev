@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nikita Marakushev
 
-**Software Engineer | DevOps**
+**Software Engineer, Computer Science student
 
 ## 🧰 Tech Stack
 
