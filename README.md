@@ -11,7 +11,7 @@ Automate the routine, focus on the creative.
 
 ## 🚀 About Me
 
-- 🛠️ Work with **Python**, **C#**, and **Go**
+- 🛠️ Work with **Python** and **Go**
 - 🖥️ Building tools that make life easier and automate the boring stuff
 
 ---
@@ -26,10 +26,8 @@ Automate the routine, focus on the creative.
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
