@@ -26,8 +26,7 @@
 | **[kubectl-tree](https://github.com/NikitaMarakushev/kubectl-tree)** | A `kubectl` plugin visualizing K8s resource ownership hierarchy (Deployment → Pod), fully unit-tested with fake client. | `Go` `client-go` `CLI` |
 | **[kv-store](https://github.com/NikitaMarakushev/kv-store)** | High-performance in-memory Key-Value store featuring a sharded concurrent map to eliminate lock contention. | `Go` `Concurrency` `pprof` |
 | **[dumshl](https://github.com/NikitaMarakushev/dumshl)** | A minimal Unix shell written from scratch in modern C++ exploring OS internals (`fork`, `exec`, `pipe`, `dup2`). | `C++` `POSIX` `System Programming` |
-| **[obsidian_backuper](https://github.com/NikitaMarakushev/obsidian_backuper)** | Simple Python CLI for Obsidian Archive-Based Backups.
-![GitHub stars](https://img.shields.io/github/stars/NikitaMarakushev/obsidian_backuper?style=social)
+| **[obsidian_backuper](https://github.com/NikitaMarakushev/obsidian_backuper)** ![GitHub stars](https://img.shields.io/github/stars/NikitaMarakushev/obsidian_backuper?style=social) | Simple Python CLI for Obsidian Archive-Based Backups. | `Python`, `Tooling`, `Backups`
 
 ---
 
