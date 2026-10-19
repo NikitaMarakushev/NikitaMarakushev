@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Nikita Marakushev
 ### Backend & Infrastructure Engineer | Systems Enthusiast
 
-I bridge the gap between Backend Development, Infrastructure, and Security. Passionate about system programming, language internals, and CTFs. Currently diving deep into **Golang** and **C++**.
-
 ### 🛠️ Core Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
