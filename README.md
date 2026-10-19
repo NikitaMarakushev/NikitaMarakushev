@@ -36,7 +36,7 @@ I bridge the gap between Backend Development, Infrastructure, and Security. Pass
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaMarakushev&show_icons=true&theme=radical&hide_border=true" alt="Nikita's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev&layout=compact&theme=radical&hide_border=true&exclude_repo=RslLibrary,имя-вашего-java-репозитория" alt="Top Languages" width="49%" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarakushev&layout=compact&theme=radical&hide_border=true&exclude_repo=RslLibrary,comanalyzer" alt="Top Languages" width="49%" /></p>
 
 ---
 
