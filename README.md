@@ -7,15 +7,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-*Also experienced with: Docker, Kubernetes, PostgreSQL, Kafka, CI/CD, Istio, Vault.*
-
----
-
-### 🔭 Currently Building & Learning
-- ⚙️ **System Programming:** Writing a minimal POSIX-compliant Unix shell in C++ (`dumshl`) to deeply understand process lifecycle, IPC, and file descriptors.
-- 🚀 **High-Performance Go:** Building an in-memory sharded KV-store with custom TCP protocol, `pprof` optimization, and concurrent load testing.
-- 📚 **Reading:** *Designing Data-Intensive Applications* by Martin Kleppmann.
-
 ---
 
 ### 📌 Featured Projects
