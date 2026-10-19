@@ -32,7 +32,5 @@
 
 ### 📫 Let's Connect
 
-I'm always open to discussing system design, backend architecture, or CTFs.
-
 *   **Telegram:** [@frnicky](https://t.me/frnicky) *(Preferred)*
 *   **Email:** [nikitamarakusev@gmail.com](mailto:nikitamarakusev@gmail.com)
