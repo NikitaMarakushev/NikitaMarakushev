@@ -1,20 +1,6 @@
 # 👋 Hi, I'm Nikita
 
 ### Backend Software Engineer
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
 ---
 
 ### 📊 GitHub Statistics
